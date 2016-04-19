@@ -1,0 +1,28 @@
+name: theleperinc
+favicon: null
+layout_spectrum: 0.5297248042188585
+typography_spectrum: 0.18931903946213424
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5095448703505099
+  lightness: 0.9995677238330245
+  saturation: 0.1618108688853681
+  rhythmicContrast: 0.6047157132998109
+purpose: []
