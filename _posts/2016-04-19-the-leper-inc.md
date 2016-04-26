@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Intercultural Books for Children
-datePublished: '2016-04-26T07:33:11.131Z'
-dateModified: '2016-04-26T07:22:35.376Z'
+datePublished: '2016-04-26T07:33:51.978Z'
+dateModified: '2016-04-26T07:33:21.284Z'
 title: The Leper
 author:
   - name: ''
@@ -20,7 +20,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
