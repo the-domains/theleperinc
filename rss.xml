@@ -4,7 +4,7 @@
         <description><![CDATA[Intercultural books for children]]></description>
         <link>https://thegrid.ai/theleperinc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 07:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 07:45:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theleperinc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Leper]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/theleperinc/the-leper/index.html</link>
             <guid isPermaLink="false">be29f58e-6c2a-44ee-9335-a02b8374a0de</guid>
             <pubDate>Tue, 26 Apr 2016 07:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hawai'i]]></title>
+            <description><![CDATA[<p>Hawai'i:</p>]]></description>
+            <link>https://thegrid.ai/theleperinc/hawaii/index.html</link>
+            <guid isPermaLink="false">d1cb434f-77b6-4820-afde-2611369fe2e4</guid>
+            <pubDate>Tue, 26 Apr 2016 07:45:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
