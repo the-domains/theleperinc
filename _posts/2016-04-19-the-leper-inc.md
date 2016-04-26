@@ -1,28 +1,30 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
-description: 'The Leper Inc. '
-datePublished: '2016-04-19T20:02:18.189Z'
-dateModified: '2016-04-19T20:01:57.667Z'
-title: ''
-author: []
+description: Intercultural Books for Children
+datePublished: '2016-04-26T07:33:11.131Z'
+dateModified: '2016-04-26T07:22:35.376Z'
+title: The Leper
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-19-the-leper-inc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-the-leper-inc.md
-published: true
-url: the-leper-inc/index.html
-_type: Article
+starred: true
+_type: Blurb
 
 ---
-The Leper Inc. 
+> The Leper Inc. 
 
-Intercultural Books for Children!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89d55b0a-770a-487b-a2f3-ad6878318fd8.jpg)
+Intercultural Books for Children
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e31dc9337457a40d6bba36a3e5ca60251c666e8f.jpg)
